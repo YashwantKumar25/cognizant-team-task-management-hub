@@ -33,3 +33,12 @@ npm run dev
 # Application Screenshot
 ![Screenshot-without-data](https://github.com/YashwantKumar25/cognizant-team-task-management-hub/blob/main/apps/web/public/Screenshot-Searching-with-debounce-implementation.png?raw=true)
 
+![responsive on small screen](https://github.com/YashwantKumar25/cognizant-team-task-management-hub/blob/main/apps/web/public/Screenshot-responsive-on-small-screen.png?raw=true)
+
+!(screenshot with data)(https://github.com/YashwantKumar25/cognizant-team-task-management-hub/blob/main/apps/web/public/Screenshot-with-data.png?raw=true)
+
+![Screenshort with search](https://github.com/YashwantKumar25/cognizant-team-task-management-hub/blob/main/apps/web/public/Screenshot-Searching-with-debounce-implementation.png?raw=true)
+
+![Screenshot with black theme](https://github.com/YashwantKumar25/cognizant-team-task-management-hub/blob/main/apps/web/public/Screenshot-black-theme.png?raw=true)
+
+
