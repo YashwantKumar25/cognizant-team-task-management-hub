@@ -30,4 +30,3 @@ npm run dev
 - **Resilient server** with centralized error handling, CORS allow-list (incl. custom header).
 - **Search performance** via debounce + server filtering.
 
-# cognizant-team-task-management-hub
