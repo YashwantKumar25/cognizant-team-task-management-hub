@@ -1,7 +1,7 @@
 
 # Cognizant Team Task Management Hub
 
-A small full-stack test app to manage cognizant team tasks
+A small full-stack test app to manage cognizant team tasks. We can add tasks, search tasks and delete tasks.
 
 ## Tech
 - Frontend: React + TypeScript + Vite, Redux Toolkit + RTK Query, Zod, Tailwind CSS
@@ -29,4 +29,7 @@ npm run dev
 - **RTK Query** for fetch lifecycle and normalization; scalable tags-based cache invalidation.
 - **Resilient server** with centralized error handling, CORS allow-list (incl. custom header).
 - **Search performance** via debounce + server filtering.
+
+# Application Screenshot
+![Screenshot-without-data](https://github.com/YashwantKumar25/cognizant-team-task-management-hub/blob/main/apps/web/public/Screenshot-Searching-with-debounce-implementation.png?raw=true)
 
